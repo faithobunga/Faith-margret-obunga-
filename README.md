@@ -1,6 +1,6 @@
 # Hi there, I'm Faith Margret Obunga 👋  
 
-💻 **Computer Science Student | Web Developer | Aspiring Data & Cybersecurity Analyst**  
+💻 **Computer Science Student | Web Developer | Aspiring Data & Cybersecurity Analyst| software engineer **  
 
 🌍 Based in Nairobi, Kenya | Passionate about building real-world tech solutions that improve lives.  
 
