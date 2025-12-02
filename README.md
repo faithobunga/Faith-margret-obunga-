@@ -45,7 +45,6 @@
 ---
 
 ## 📚 Currently Exploring
-- 🔐 Exploring **Cybersecurity foundations** (threat detection, data protection)  
 - 🌐 Learning more about **APIs & backend integration**  
 - 🔄 Getting deeper with **Git & GitHub workflows**  
 - 🛠️ Technical skills growth (new languages, frameworks, and tools)  
