@@ -9,8 +9,7 @@
 ## 👩‍💻 About Me
 - 🎓 Final-year Computer Science student at the **Catholic University of Eastern Africa (Graduating 2025)**  
 - 💻 Skilled at solving technical issues, managing web platforms, and creating user-friendly digital solutions  
-- 🌱 Currently learning **Data Analysis (Excel, Power BI, SPSS)** and **Cybersecurity fundamentals**  
-- ✨ Strong interest in **mental health tech, data-driven insights, and secure systems**  
+- 🌱 Currently learning cloud engineering 
 - 🌟 **Strong interest in solving real-world problems through technology and innovation**  
 
 ---
