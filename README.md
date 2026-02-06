@@ -1,13 +1,13 @@
 # Hi there, I'm Faith Margret Obunga 👋  
 
-💻 **Computer Science Student | Web Developer | Aspiring Data & Cybersecurity Analyst| software engineer **  
+💻 **Computer Science Graduate  | Web Developer | Aspiring cloud engineer  **  
 
 🌍 Based in Nairobi, Kenya | Passionate about building real-world tech solutions that improve lives.  
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Final-year Computer Science student at the **Catholic University of Eastern Africa (Graduating 2025)**  
+- 🎓 Computer Science graduate from the  **Catholic University of Eastern Africa (Graduated 2025)**  
 - 💻 Skilled at solving technical issues, managing web platforms, and creating user-friendly digital solutions  
 - 🌱 Currently learning cloud engineering 
 - 🌟 **Strong interest in solving real-world problems through technology and innovation**  
